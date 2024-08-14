@@ -1,4 +1,4 @@
-filepath= fr'..\files\todo.txt'
+filepath= fr'D:\User\Documents\ML\Python Mega Course\todo_app_web\todo.txt'
 
 
 def get_todos():
